@@ -1,0 +1,164 @@
+/*******************************************Tag Selectors******************************************/
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 119px;
+
+}
+
+h3 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 39px;
+}
+/***************************************Class Selectors************************************************/
+/*Top Container*/
+.top-container{
+    background-color: #af0404  ;
+  padding-top: 100px;
+}
+.greeting, .servus {
+    text-align: center;
+}
+.german-flag {
+    height: 28%;
+    width: 28%;
+    position: relative;
+    left: 36.4%;
+}
+/*Middle Container*/
+.middle-container {
+    background-color: ivory;
+}
+.about {
+  text-align: center;
+  font-size: 83px;
+  color: #af0404  ;
+  font-family: 'Great Vibes', cursive;
+}
+.hr-1{
+  width: 200px;
+  height: 4px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #af0404;
+  position: relative;
+  bottom: 30px;
+}
+.info{
+  color: #3c4245;
+  margin: 3%;
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+  font-size: 19px;
+}
+.image-par{
+  padding-left: 26%;
+  border-radius: 100%;
+}
+
+/*Mid-Mid Container*/
+.mid-mid-con {
+  background-color: #af0404  ;
+}
+.chancellor {
+  text-align: center;
+  font-size: 83px;
+  color: #ffffff  ;
+  font-family: 'Great Vibes', cursive;
+
+}
+
+.hr-2 {
+  width: 200px;
+  height: 4px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #ffffff;
+  position: relative;
+  bottom: 25px;
+}
+.image-par1 {
+  height: 390px;
+  width: 390px;
+  border-radius: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.cha-info{
+  font-family: 'Athiti', sans-serif;
+  font-size: 18px;
+}
+
+/*Bottom-ish Container*/
+.bottomish {
+  background-color: ivory;
+}
+
+.hr-3 {
+  width: 200px;
+  height: 4px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #af0404;
+  position: relative;
+  bottom: 20px;
+}
+.election {
+  color: #3c4245;
+  font-size: 20px;
+  font-family: 'Ibarra Real Nova', serif;
+  padding: 50px;
+}
+/*Bottom Container (Finally)*/
+.bottom {
+  background-color: #af0404;
+}
+.foorm{
+  width: 100%;
+}
+.final{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/*Navbar*/
+.navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+}
+.nav-link{
+    font: fbf9fa;
+}
+.nav-link {
+  font-family: 'Tangerine', cursive;
+  font-size: 24px;
+}
+
+.nav-link:hover {
+  color: #004d61;
+}
+
+.navbar-expand-lg {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/*Miscellaneous*/
+
+.body{
+background-color: #af0404;
+}
+.button {
+  background-color:#000;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20%;
+  position: relative;
+  left: 46%;
+}
